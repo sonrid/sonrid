@@ -1,16 +1,34 @@
-## Hi there 👋
+# Amala Ridson J
 
-<!--
-**sonrid/sonrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Cyber Security student at Bournemouth University with hands-on experience in cybersecurity tools, web technologies, and machine learning–based threat detection. Actively seeking part-time or entry-level technical roles in the UK to gain industry exposure.
 
-Here are some ideas to get you started:
+## 🔐 Cybersecurity Skills
+- Network Scanning: Nmap
+- Web Application Testing: Burp Suite
+- Traffic Analysis: Wireshark
+- Operating Systems: Linux, Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming & Web
+- Python, JavaScript
+- HTML, CSS, React.js
+- Git, GitHub
+
+## 📌 Projects
+### Ransomware Detection using BGP Routing Records
+- Built ML models (Random Forest, XGBoost) to detect anomalies in BGP routing data.
+- Analysed attack patterns related to real-world ransomware incidents.
+
+### Keystroke Dynamics Authentication System
+- Developed a behavioural biometric system based on user typing patterns.
+- Improved authentication security using real-time analysis.
+
+## 📚 Learning Platforms
+- TryHackMe (Intermediate)
+- Cisco Networking Academy
+
+## 🌍 Location
+Bournemouth, United Kingdom
+
+## 📫 Contact
+- Email: csamalaridsonj@gmail.com
+- LinkedIn: https://linkedin.com/in/ridson2712
